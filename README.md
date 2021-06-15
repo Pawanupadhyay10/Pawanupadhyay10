@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pawanupadhyay10
 - 👀 I’m interested in opensource contribution in different tech or projects.
-- 🌱 I’m currently learning Full stack web development.
+- 🌱 I’m currently learned Full stack web development.
 - 💞️ I’m looking to collaborate on different tech or projects.
 - 📫 Reach me via pawandev1099@gmail.com
 
