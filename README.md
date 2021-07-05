@@ -1,5 +1,5 @@
+<img src="https://pawanupadhyay10.github.io/img/" alt="https://pawanupadhyay10.github.io/img/" width="auto" height="auto"/>
 <h1 align="center">Hi 👋, I'm Pawan Upadhyay</h1>
-<img src="https://pawanupadhyay10.github.io/img/">
 <h3 align="center">A passionate full stack developer from India.</h3><h3>🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.</h3><h3>💻 I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanupadhyay10&label=Profile%20views&color=0e75b6&style=flat" alt="pawanupadhyay10" /> </p>
