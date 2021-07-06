@@ -1,4 +1,4 @@
-<img src="https://pawanupadhyay10.github.io/img/" alt="Banner" width="40" height="40"/>
+<img src="https://www.rakacreative.com/wp-content/uploads/2019/02/Raka-blog-uses-for-animation-1480x550.png" alt="Banner" width="" height=""/>
 <h1 align="center">Hi 👋, I'm Pawan Upadhyay</h1>
 <h3 align="center">A passionate full stack developer from India.</h3><h3>🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.</h3><h3>💻 I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things.</h3>
 
