@@ -1,4 +1,4 @@
-<img src="https://www.rakacreative.com/wp-content/uploads/2019/02/Raka-blog-uses-for-animation-1480x550.png" alt="Banner" width="" height=""/>
+<img src="https://user-images.githubusercontent.com/52281814/133039117-d069d25b-f127-481c-ac36-a5fb3d206000.png" alt="Banner" width="1000" height="380"/>
 <h1 align="center">Hi 👋, I'm Pawan Upadhyay</h1>
 <h3 align="center">A passionate full stack developer from India.</h3><h3>🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.</h3><h3>💻 I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things.</h3>
 
@@ -26,4 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanupadhyay10&show_icons=true&locale=en&layout=compact" alt="pawanupadhyay10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanupadhyay10&show_icons=true&locale=en" alt="pawanupadhyay10" /></p>
+
 
