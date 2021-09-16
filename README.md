@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/52281814/133039117-d069d25b-f127-481c-ac36-a5fb3d206000.png" alt="Banner" width="1000" height="380"/>
+<img src="https://user-images.githubusercontent.com/52281814/133580271-22ee7744-4b07-41c9-9c54-29c96cd7dd66.png" alt="Banner" width="1000" height="380"/>
 <h1 align="center">Hi 👋, I'm Pawan Upadhyay</h1>
 <h3 align="center">A passionate full stack developer from India.</h3><h3>🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.</h3><h3>💻 I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things.</h3>
 
