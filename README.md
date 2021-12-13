@@ -1,6 +1,12 @@
 <img src="https://user-images.githubusercontent.com/52281814/133580271-22ee7744-4b07-41c9-9c54-29c96cd7dd66.png" alt="Banner" width="1000" height="380"/>
 <h1 align="center">Hi 👋, I'm Pawan Upadhyay</h1>
-<h3 align="center">A passionate full stack developer from India.</h3><h3>🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.</h3><h3>💻 I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things.</h3>
+<h3 align="center">🎓 I’m an Open-Source enthusiast & a Final year Undergraduate pursuing my bachelor's in Computer Science & Engineering.
+
+🤗 I am passionate about Mobile app development, Web Dev, Machine Learning, DevOps , Kubernetes & I enjoy learning new things.
+
+I'm a technology enthusiast and have my hands dirty on various technologies , aiming at building some technological and viable solutions to improve the quality of human life.
+
+Apart from this , I love to participate in various competitions/contests/Hackathons, and driven by various technologies , my aim is to empower and encourage more and more people into technology through communities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanupadhyay10&label=Profile%20views&color=0e75b6&style=flat" alt="pawanupadhyay10" /> </p>
 
