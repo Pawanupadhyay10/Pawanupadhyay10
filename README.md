@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/52281814/133580271-22ee7744-4b07-41c9-9c54-29c96cd7dd66.png" alt="Banner" width="1000" height="380"/>
+<img src="https://github.com/bhavukkalra/bhavukkalra/blob/main/Cool.gif" alt="Banner" width="800" height="460"/>
 <h1 align="center">Hi 👋, I'm Pawan Upadhyay</h1>
 <h3 align="center">🎓 I’m an Open-Source enthusiast & a Final year Undergraduate pursuing my bachelor's in Computer Science & Engineering.
 
